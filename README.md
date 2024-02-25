@@ -1,4 +1,4 @@
-<h1>Devs Community Websit</h1>
+<h1>Devs Community Website</h1>
 Welcome to the Devs Community Website project! This website is a dynamic and fully responsive platform built to foster collaboration and engagement within the developer community. Whether you're a seasoned professional or just starting out, our platform provides a space for sharing knowledge, networking, and staying up-to-date with the latest industry trends.
 
 Table of Contents
