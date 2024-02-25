@@ -2,12 +2,13 @@
 Welcome to the Devs Community Website project! This website is a dynamic and fully responsive platform built to foster collaboration and engagement within the developer community. Whether you're a seasoned professional or just starting out, our platform provides a space for sharing knowledge, networking, and staying up-to-date with the latest industry trends.
 
 Table of Contents
-About
-Home
-Members
-Activities
-Contact
-About
+<ul>
+  <li>Home</li>
+  <li>About</li>
+  <li>Members</li>
+  <li>Contact</li>
+  <li>Activities</li>
+</ul>
 The Devs Community Website is a comprehensive platform designed to bring together developers from diverse backgrounds and skill levels. Our goal is to create a vibrant online community where members can connect, collaborate, and learn from one another.
 
 Home
